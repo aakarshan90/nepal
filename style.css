@@ -1,0 +1,37 @@
+body{
+	background:#F0FFF0; 
+
+}
+h4{
+		float: left;
+		color: brown;
+	}
+	h5{
+		float: left;
+	}
+
+a{
+	margin: 10px;
+    
+	padding: 20px 16px;
+	color: #000;
+	font-size: 14px;
+	width: 100px;
+	text-decoration: none;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+a:hover{
+	background: purple;
+}
+
+li{
+	float: left;
+}
+.img_deg{
+float: right;
+	height:350;
+	margin: 10px;
+	padding: 20px;
+}
+
